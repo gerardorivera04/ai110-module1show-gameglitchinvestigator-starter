@@ -80,6 +80,7 @@ if "history" not in st.session_state:
 
 st.subheader("Make a guess")
 
+#FIXME: Logic breaks here
 #FIX: Refactored logic into app.py using the AI assistant chat's suggestion.
 st.info(
     f"Guess a number between {low} and {high}. "

@@ -1,4 +1,4 @@
-
+#FIXME: Logic breaks here
 #FIX: Refactored logic into logic_utils.py using the agent mode.
 def get_range_for_difficulty(difficulty: str):
     """Return (low, high) inclusive range for a given difficulty."""
@@ -18,6 +18,7 @@ def parse_guess(raw: str):
     """
     raise NotImplementedError("Refactor this function from app.py into logic_utils.py")
 
+#FIXME: Logic breaks here
 #FIX: Refactored logic into logic_utils.py using the agent mode.
 def check_guess(guess, secret):
     """
