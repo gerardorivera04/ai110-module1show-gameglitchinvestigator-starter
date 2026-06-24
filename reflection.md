@@ -61,7 +61,7 @@ Answer: AI did help me design in a way where it provides me with a plan in findi
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
 
-Answer:
+Answer: I explained to a friend that Streamlit "reruns" and session state is comparing the experience of using a search engine whenever your curiosity peaks for learning a new topic, or reviewing a older topic. For instance, you can constantly open the Google app on your phone throughout the day and notice something that remains the same, which is your search history. In addition, you can search something about soccer on Google, close the Google app to open it again, and you'll realize you can search the same soccer topic again as a means of having an application remember what had happened previously, which is my friend searching a soccer topic.
 
 ---
 
@@ -70,12 +70,12 @@ Answer:
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
   - This could be a testing habit, a prompting strategy, or a way you used Git.
 
-Answer: 
+Answer: I want to use the prompting strategy utilized for this project in future work because my prompting strategy showcased how important example scenarios to my AI tool to communicate what would be the most efficient fixes to repair any bug or problem to get the same results found in the test cases and the example scenarios.
 
 - What is one thing you would do differently next time you work with AI on a coding task?
 
-Answer:
+Answer: I need to provide better context and specific details the next time that I work with AI on a coding task so that I avoid being mislead to a stop in my thought process or faced with a bigger problem. Thus, I need to make adjustments to acquire a more efficient prompting strategy when utilzing an AI tool for a coding task. 
 
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
 
-Answer:
+Answer: This project did change my perspective on AI generated code with how organized and clean it looks, but it's the user's responsibility to ensure AI generated code is getting the bare minimum done with any changes made if necessary. 
